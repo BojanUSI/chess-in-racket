@@ -1,2 +1,4 @@
 # chess-in-racket
-Working chess game in Racket ASL
+Please look at the following guides for further information:
+    - User Guide
+    - Developer Guide
